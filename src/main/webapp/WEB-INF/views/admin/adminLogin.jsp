@@ -7,6 +7,7 @@
       height: 100%;
       display: flex;
       margin: 0;
+      cursor: default;
     }
 
     .containerLeft {
@@ -19,11 +20,11 @@
     }
 
     .HoneyBee {
-      font-size: 46px;
+      font-size: 3vw;
     }
 
     .title {
-      font-size: 16px;
+      font-size: 1.05vw;
     }
 
     .containerRight {
@@ -43,6 +44,7 @@
     .pw:focus {
       color: #ff2079;
       outline: none;
+      border-bottom: 4px solid black;
     }
 
     .loginBox {
@@ -68,6 +70,7 @@
     .login:hover {
       cursor: pointer;
       background-color: #ff2079;
+      letter-spacing: 20px;
       transition: 0.5s;
     }
     
