@@ -1,5 +1,9 @@
+<%@ page import="java.util.*" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@include file="../admin/adminHeader.jsp" %>
+<%@include file="../admin/adminNav.jsp" %>
 <!DOCTYPE html>
 <html lang="en">
+
   <style>
     html,
     body {
